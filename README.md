@@ -20,7 +20,7 @@ I'm a passionate aspiring Data Analyst who enjoys transforming raw data into mea
       
 ## 🔭 What I'm Currently Working On 
 
-- **There's Always Another Storm: How Climate Change Amplifies Risks in the Philippines: ** A data investigatory project that visualized the 10-year impact of climate change in the Philippines from 2014 to 2023. Visualized using an interactive dashboard via Tableau.
+- ** There's Always Another Storm: How Climate Change Amplifies Risks in the Philippines: ** A multi-dataset climate resilience analysis that transforms 10 years of Philippine environmental data into an interactive Tableau dashboard, revealing the interconnected impacts of climate change.
 
 ## 🌱 Currently Learning 
 
